@@ -5,21 +5,21 @@
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/snoownx7"><img title="Author" src="https://img.shields.io/badge/Author-snoownx7-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mhankbarbar/termux-wabot?color=red&style=flat-square"></a>
-<a href="https://github.com/mhankbarbar/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot"><img src="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot/badge" alt="CodeFactor" /></a>
+<a href="https://github.com/snoownx7/followers"><img title="Followers" src="https://img.shields.io/github/followers/snoownx7?color=blue&style=flat-square"></a>
+<a href="https://github.com/snoownx7/wabotsn/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/snoownx7/wabotsn?color=red&style=flat-square"></a>
+<a href="https://github.com/snoownx7/wabotsn/network/members"><img title="Forks" src="https://img.shields.io/github/forks/snoownx7/wabotsn?color=red&style=flat-square"></a>
+<a href="https://github.com/snoownx7/wabotsn/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/snoownx7/wabotsn?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://www.codefactor.io/repository/github/snoownx7/wabotsn"><img src="https://www.codefactor.io/repository/github/snoownx7/wabotsn/badge" alt="CodeFactor" /></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/snoownx7/wabotsn
 ```
 
 ## Install the dependencies :
