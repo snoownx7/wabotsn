@@ -12,7 +12,6 @@
 <a href="https://github.com/snoownx7/wabotsn/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/snoownx7/wabotsn?color=red&style=flat-square"></a>
 <a href="https://github.com/snoownx7/wabotsn/network/members"><img title="Forks" src="https://img.shields.io/github/forks/snoownx7/wabotsn?color=red&style=flat-square"></a>
 <a href="https://github.com/snoownx7/wabotsn/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/snoownx7/wabotsn?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://www.codefactor.io/repository/github/snoownx7/wabotsn"><img src="https://www.codefactor.io/repository/github/snoownx7/wabotsn/badge" alt="CodeFactor" /></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
